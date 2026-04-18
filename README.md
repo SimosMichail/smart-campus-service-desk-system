@@ -1,7 +1,5 @@
 # Smart Campus Service Desk System - Milestone 1
 
-A secure Flask web application with role-based access control, session management, and hardcoded authentication for Milestone 1.
-
 ## Project Structure
 
 ```
@@ -118,11 +116,11 @@ The application will be available at `http://localhost:5000`
 
 ## Security Notes
 
-⚠️ **Milestone 1 (Current)**
+⚠️ **Milestone 1 ()**
 - Credentials are hardcoded (suitable for development/testing only)
 - Secret key is hardcoded (change in production)
 
-📋 **Milestone 2 (Future)**
+📋 **Milestone 2 ()**
 - Replace hardcoded credentials with MySQL database queries
 - Implement proper password hashing (bcrypt)
 - Use environment variables for configuration
