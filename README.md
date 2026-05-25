@@ -1,4 +1,4 @@
-# Smart Campus Service Desk System - Milestone 1
+# Smart Campus Service Desk System
 
 ## Project Structure
 
@@ -22,7 +22,7 @@ Project/
 
 ## Features
 
-✅ **Hardcoded Authentication** (Milestone 1)
+✅ **Hardcoded Authentication**
 - Admin account: `admin / admin123`
 - User account: `user / user123`
 
